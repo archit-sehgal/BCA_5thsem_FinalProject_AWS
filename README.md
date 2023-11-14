@@ -8,4 +8,6 @@ AWS Project(BCA-IMS Final)
 5. Create a directory.
 6. Copy a file from S3 to EC2.
 7. View the file in the S3 bucket.
-PDF File: https://drive.google.com/file/d/19M-vfrTv0vR6Ug1QLTh22p7FT2N0tE0f/view
+<br/>
+PDF File:<br/>
+https://drive.google.com/file/d/19M-vfrTv0vR6Ug1QLTh22p7FT2N0tE0f/view
